@@ -1,0 +1,11 @@
+h2 {
+    font-size: 2rem;
+}
+
+.main-header {
+    margin: 30px;
+    border: 2px solid red;
+    &-1 {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+}
