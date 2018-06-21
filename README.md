@@ -1,4 +1,4 @@
-* This project is based on Gulp tutorial https://css-tricks.com/gulp-for-beginners/
+*This project is based on Gulp tutorial https://css-tricks.com/gulp-for-beginners/ *
 
 # Installations Required 
 
